@@ -1,0 +1,8 @@
+test_images/
+train_images/
+fin_crops/
+old/
+arcface_model.pth
+model_metadata.pth
+sample_submission.csv
+train.csv
